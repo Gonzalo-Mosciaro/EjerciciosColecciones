@@ -1,0 +1,18 @@
+/* Crear la clase Empleado con los siguientes atributos:
+-Nombre (String)
+-Sueldo (float)
+-Puesto (Enumerado)
+
+1 sobrecarga de constructores
+Properties para cada atributo
+
+metodo MostrarUnEmpleado
+metodo estatico MostrarTodosLosEmpleados
+metodo estatico MostrarEmpleadosPorPuesto
+----------------------------------------
+En el main
+Crear una lista de empleados con 5 empleados
+
+Mostrar todos los empleados
+Calcular la suma de sueldos
+Mostrar solo los empleados de un puesto en particular*/
